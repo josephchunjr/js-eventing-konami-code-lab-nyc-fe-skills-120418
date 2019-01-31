@@ -23,4 +23,4 @@ const checkKeyCode = () => {
 
 function inti () {
   document.addEventListener("keydown", checkKeyCode)
-}
+}a
